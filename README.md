@@ -1,0 +1,1 @@
+# EXASOL_AdventureWorksDW2014_ExampleDB
